@@ -1,0 +1,20 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/*.pem
+terraform/*.tfvars
+terraform/plan.tfplan
+
+# Backups
+*.tar.gz
+*.sql
+
+# Python
+__pycache__/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.DS_Store
