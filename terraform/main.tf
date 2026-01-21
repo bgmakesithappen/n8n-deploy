@@ -121,7 +121,7 @@ output "n8n_ip" {
 
 output "n8n_url" {
   description = "n8n access URL"
-  value       = "https://n8n.bghub.cc"
+  value       = "https://n8n.fluintsy.com"
 }
 
 output "ssh_command" {
